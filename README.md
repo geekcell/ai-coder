@@ -1,4 +1,4 @@
-# ai_coder
+# ai-coder
 
 An experimental code generation tool powered by OpenAI's ChatGPT. It is quite heavily inspired by [smol-ai/developer](https://github.com/smol-ai/developer), but uses [LangChain](https://python.langchain.com/en/latest/) under the hood instead of [open-ai](https://github.com/openai/openai-python) directly.
 

@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+# http://docs.python-guide.org/en/latest/dev/virtualenvs/
+.venv/
+
+# Environment variables
+.env
